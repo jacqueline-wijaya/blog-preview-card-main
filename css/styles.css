@@ -47,15 +47,17 @@ body {
 }
 .date {
     font-family: "Figtree", sans-serif;
+    font-size: 10pt;
 }
 .title {
     font-family: "Figtree", sans-serif;
     font-weight: 800;
-
+    margin-bottom: -3px;
+    margin-top: -3px;
 }
 .description {
     font-family: "Figtree", sans-serif;
-    font-size: 16px;
+    font-size: 12pt;
     color:hsl(0, 0%, 42%);
     line-height: 25px;
 }
@@ -66,7 +68,8 @@ body {
     padding: 10px; /* Add padding if needed */
     font-family: "Figtree", sans-serif;
     font-weight: 800;
-    margin-bottom: 20px;
+    margin-top: -15px;
+    margin-left: -10px;
 }
 
 .author-picture {
